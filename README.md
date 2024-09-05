@@ -20,7 +20,8 @@ npm install
 
 ### Instalar o Backend
 ```
-cd jornada-milhas-api-main
+cd backend
+npm i -g json-server@0.17.4
 npm install
 ```
 
